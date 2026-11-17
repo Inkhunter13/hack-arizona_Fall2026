@@ -29,7 +29,7 @@ Built in 6 hours at the [AgX Arizona Summit](https://hack.arizona.edu/hack-arizo
 
 ## Why it matters
 
-Pesticide that drifts off target harms neighboring crops, workers, and communities. The riskiest condition is a **temperature inversion**: cool air trapped under warmer air, which holds spray in a shallow layer that can travel sideways for long distances. It feels like a calm, perfect evening at ground level, so a single weather station reports it as safe. Comparing the temperature at 5 ft and 30 ft reveals it.
+Pesticide that drifts off target harms neighboring crops, workers, and communities. The riskiest condition is a **temperature inversion**: cool air trapped under warmer air, which holds spray in a shallow layer that can travel laterally for long distances. It feels like a calm, perfect evening at ground level, so a single weather station reports it as safe. Comparing the temperature at 5 ft and 30 ft reveals it.
 
 ## What it does
 
